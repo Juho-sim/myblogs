@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://34.64.100.232:8787/p/addf0ec6/
+external_link: https://juho-sim.shinyapps.io/industry/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
