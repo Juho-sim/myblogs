@@ -50,10 +50,10 @@ contact_links:
   #   icon_pack: fab
   #   name: Chat on Keybase
   #   link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -68,8 +68,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Jun 15, 2021'
+time_format: '7:37 PM'
 address_format: en-us
 
 # Site features
